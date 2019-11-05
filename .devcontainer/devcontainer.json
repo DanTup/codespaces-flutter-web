@@ -1,7 +1,10 @@
 {
 	"name": "Flutter",
 	"settings": {
-		"dart.flutterSdkPath": "~/flutter"
+		"dart.flutterSdkPath": "~/flutter",
+		"terminal.integrated.env.linux": {
+			"PATH": "~/flutter/bin/:${env:PATH}"
+		}
 	},
 	"postCreateCommand": "git clone --branch master https://github.com/flutter/flutter ~/flutter && flutter config --enable-web",
 	"extensions": [
