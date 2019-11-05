@@ -1,6 +1,6 @@
 {
 	"name": "Flutter",
-	"postCreateCommand": "git clone --branch master https://github.com/flutter/flutter ~/flutter && flutter config --enable-web && flutter packages get",
+	"postCreateCommand": "git clone --branch master https://github.com/flutter/flutter ~/flutter && ~/flutter/bin/flutter config --enable-web && ~/flutter/bin/flutter packages get",
 	"extensions": [
 		"Dart-Code.dart-code",
 		"Dart-Code.flutter"
