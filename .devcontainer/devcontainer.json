@@ -1,0 +1,8 @@
+{
+	"name": "Flutter",
+	"postCreateCommand": "",
+	"extensions": [
+		"Dart-Code.dart-code",
+		"Dart-Code.flutter"
+	]
+}
