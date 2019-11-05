@@ -1,0 +1,6 @@
+{
+	"dart.flutterSdkPath": "~/flutter",
+	"terminal.integrated.env.linux": {
+		"PATH": "~/flutter/bin/:${env:PATH}"
+	}
+}
