@@ -8,6 +8,7 @@ A sample repo for trying out Flutter web projects in VS Codespace (formerly VS O
 - On the debug side bar, click the green play button to debug the app (or choose Run -> Run Without Debugging)
 - When the build completes, a new browser window will be opened (check for popup blocking)
 - If debugging, the page will load blank - click the Dart Debug Extension icon to connect the debugger and start the app
+- Don't forget to delete the VS Codespace when done testing!
 
 ## Known Issues
 
