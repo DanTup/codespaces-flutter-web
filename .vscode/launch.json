@@ -5,11 +5,6 @@
 			"name": "Flutter",
 			"request": "launch",
 			"type": "dart",
-			"serverReadyAction": {
-				"pattern": "is being served at http://localhost:([0-9]+)/",
-				"uriFormat": "http://localhost:%s",
-				"action": "openExternally"
-			}
 		}
 	]
 }
