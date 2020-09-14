@@ -1,9 +1,6 @@
 {
 	"dart.flutterSdkPath": "~/flutter",
-	"dart.previewFlutterGutterIcons": true,
-	"dart.previewFlutterUiGuides": true,
-	"dart.previewFlutterUiGuidesCustomTracking": true,
 	"terminal.integrated.env.linux": {
-		"PATH": "~/flutter/bin/:${env:PATH}"
-	}
+		"PATH": "~/flutter/bin/:${env:PATH}",
+	},
 }
