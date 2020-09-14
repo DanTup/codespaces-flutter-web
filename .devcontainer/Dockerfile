@@ -12,5 +12,5 @@ WORKDIR /home/vscodespace
 ENV PUB_CACHE=/home/vscodespace/.pub_cache
 ENV PATH="/home/vscodespace/flutter/bin:$PATH"
 
-RUN git clone https://github.com/flutter/flutter && \
+RUN git clone https://github.com/flutter/flutter --branch beta && \
     /home/vscodespace/flutter/bin/flutter config --enable-web

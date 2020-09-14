@@ -5,6 +5,11 @@
 			"name": "Flutter",
 			"request": "launch",
 			"type": "dart",
+			"program": "lib/main.dart",
+			"args": [
+				"--web-hostname",
+				"any"
+			]
 		}
 	]
 }
